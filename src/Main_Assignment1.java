@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class Main_Assignment1b {
+public class Main_Assignment1 {
 
 	public static void main(String[] args) {
 		
